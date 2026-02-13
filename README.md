@@ -1,1 +1,1 @@
-Basic "Hello World" for C64 using VSCode IDE, ACME< compiles, and VICE emulator.
+Basic "Hello World" for C64 using VSCode IDE, VS64 extension, ACME compiler, and VICE emulator.
